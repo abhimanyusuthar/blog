@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Open-ended questions"
 categories: junk
 author:
-- Bart Simpson
-- Nelson Mandela Muntz
-meta: "Springfield"
+- Abhimanyu Suthar
 ---
 
 Here are some open questions that I am probing currently and would like to get answers to (updated: November 25,24)
