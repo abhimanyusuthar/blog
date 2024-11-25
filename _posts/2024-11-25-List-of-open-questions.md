@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open-ended questions"
-categories: junk
+
 author:
 - Abhimanyu Suthar
 ---
